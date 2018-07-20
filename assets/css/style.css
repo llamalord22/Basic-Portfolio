@@ -50,6 +50,7 @@ h1 {
     float: left;
     padding: 10px;
     position: relative;
+    bottom: 240px;
 }
 
 .tech2 {
@@ -57,25 +58,32 @@ h1 {
     height: 170px;
     padding: 10px;
     position: relative;
+    bottom: 240px;
 }
 
 .tech3 {
     width: 200px;
     height: 170px;
     float: left;
-    padding: 10px
+    padding: 10px;
+    position: relative;
+    bottom: 230px;
 }
 
 .tech4 {
     width: 200px;
     height: 170px;
-    padding: 10px
+    padding: 10px;
+    position: relative;
+    bottom: 230px;
 }
 
 .tech5 {
     width: 200px;
     height: 170px;
-    padding: 10px
+    padding: 10px;
+    position: relative;
+    bottom: 220px;
 }
 
 .links {
@@ -91,8 +99,8 @@ footer {
     width: 100%;
     height: 70px;
     text-align: center;
-    position: absolute;
-    bottom: -10px;
+    position: relative;
+    bottom: -135px;
     background: #666666;
     border-top: 8px solid #4aaaa5;
     color: #cccccc;
@@ -154,9 +162,9 @@ input[type=submit]:hover {
     height: 50px;
     width: 180px;
     padding-top: 13px;
-    position: absolute;
-    left: 263px;
-    top: 275px;
+    position: relative;
+    left: 10px;
+    top: 100px;
     z-index:4;
     text-align: center;
 }
@@ -170,9 +178,9 @@ strong {
     height: 50px;
     width: 180px;
     padding-top: 13px;
-    position: absolute;
-    left: 463px;
-    top: 275px;
+    position: relative;
+    left: 210px;
+    top: 49px;
     z-index:4;
     text-align: center;
 }
@@ -182,9 +190,9 @@ strong {
     height: 50px;
     width: 180px;
     padding-top: 13px;
-    position: absolute;
-    left: 263px;
-    top: 445px;
+    position: relative;
+    left: 10px;
+    top: 190px;
     z-index:4;
     text-align: center;
 }
@@ -194,9 +202,9 @@ strong {
     height: 50px;
     width: 180px;
     padding-top: 13px;
-    position: absolute;
-    left: 463px;
-    top: 445px;
+    position: relative;
+    left: 210px;
+    top: 140px;
     z-index:4;
     text-align: center;
 }
@@ -206,9 +214,9 @@ strong {
     height: 50px;
     width: 180px;
     padding-top: 13px;
-    position: absolute;
-    left: 263px;
-    top: 620px;
+    position: relative;
+    left: 10px;
+    top: 275px;
     z-index:4;
     text-align: center;
 }
