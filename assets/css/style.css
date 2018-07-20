@@ -5,7 +5,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/organic-tiles.png);
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/oriental.png");
 }
 
 h1 {
@@ -44,11 +44,45 @@ h1 {
 
 }
 
+.tech1 {
+    width: 200px;
+    height: 170px;
+    float: left;
+    padding: 10px;
+    position: relative;
+}
+
+.tech2 {
+    width: 200px;
+    height: 170px;
+    padding: 10px;
+    position: relative;
+}
+
+.tech3 {
+    width: 200px;
+    height: 170px;
+    float: left;
+    padding: 10px
+}
+
+.tech4 {
+    width: 200px;
+    height: 170px;
+    padding: 10px
+}
+
+.tech5 {
+    width: 200px;
+    height: 170px;
+    padding: 10px
+}
+
 .links {
     width: 100%;
     height: 80px;
     text-align: right;
-    padding: 20px 500px;
+    padding: 20px 25%;
     border: 1px solid #cccccc;
     background: #ffffff
 }
@@ -113,4 +147,68 @@ input[type=submit]:hover {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
+}
+
+.text-block1 {
+    background-color:#4aaaa5;
+    height: 50px;
+    width: 180px;
+    padding-top: 13px;
+    position: absolute;
+    left: 263px;
+    top: 275px;
+    z-index:4;
+    text-align: center;
+}
+
+strong {
+    color: white;
+}
+
+.text-block2 {
+    background-color:#4aaaa5;
+    height: 50px;
+    width: 180px;
+    padding-top: 13px;
+    position: absolute;
+    left: 463px;
+    top: 275px;
+    z-index:4;
+    text-align: center;
+}
+
+.text-block3 {
+    background-color:#4aaaa5;
+    height: 50px;
+    width: 180px;
+    padding-top: 13px;
+    position: absolute;
+    left: 263px;
+    top: 445px;
+    z-index:4;
+    text-align: center;
+}
+
+.text-block4 {
+    background-color:#4aaaa5;
+    height: 50px;
+    width: 180px;
+    padding-top: 13px;
+    position: absolute;
+    left: 463px;
+    top: 445px;
+    z-index:4;
+    text-align: center;
+}
+
+.text-block5 {
+    background-color:#4aaaa5;
+    height: 50px;
+    width: 180px;
+    padding-top: 13px;
+    position: absolute;
+    left: 263px;
+    top: 620px;
+    z-index:4;
+    text-align: center;
 }
